@@ -1,0 +1,14 @@
+{
+  "folders": [
+	{
+		"path": "../../login_application"
+	},
+	{
+		"path": "../../messenger_application"
+	},
+	{
+		"path": "../../../../DART/DartBasics/Basics-Tasks"
+	}
+],
+  "settings": {}
+}
